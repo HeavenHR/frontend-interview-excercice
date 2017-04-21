@@ -1,2 +1,2 @@
-# frontend-interview-exercice
-Frontend Interview Exercice
+# frontend-interview-exercise
+Frontend Interview Exercise
